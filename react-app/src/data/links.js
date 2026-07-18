@@ -13,6 +13,8 @@ export const CATEGORIES = [
   "News & Media",
 ];
 
+export const AUDITOR_VENDOR = "Data Dynamics (DDTI)";
+
 export const LINKS = [
   // ---------- Government ----------
   { name: "Vinton County (Official Site)", category: "Government", subcategory: "County", url: "https://vintoncounty.com/", description: "Official Vinton County government website — offices, departments, and services." },
